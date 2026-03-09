@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "About.html",
-    "href": "About.html",
-    "title": "About",
+    "objectID": "Terminal.html",
+    "href": "Terminal.html",
+    "title": "Accessible_Void",
     "section": "",
-    "text": "AV Archive is an unofficial fan project created for a private tabletop role-playing campaign.\nThis site serves as an in-universe archive documenting events that occur during our game. As the campaign progresses, new entries, materials, and discoveries are added to reflect the evolving story shaped collaboratively by the players.\nThe project is inspired by and makes reference to Public Access, published by The Gauntlet.\nAVArchive is not affiliated with, endorsed by, or sponsored by The Gauntlet. All original setting elements, archive entries, and supplemental materials presented here are created for non-commercial storytelling purposes within a home game.\nAll intellectual property related to Public Access remains the property of its respective creators and publishers.\nIf you are the creator of Public Access and you have any concerns about the content of this website, please reach out to me at: contact@avarchive.online"
+    "text": "AV ARCHIVE ACCESS TERMINAL\n    AUTHORIZED PERSONNEL ONLY\n    --------------------------------\n    ENTER ARCHIVE CODE:\n  \n\n  \n    &gt;"
   },
   {
-    "objectID": "Test.html",
-    "href": "Test.html",
-    "title": "Check",
+    "objectID": "GM-notes.html",
+    "href": "GM-notes.html",
+    "title": "GM-notes",
     "section": "",
-    "text": "This content is inside a rendered div with class section."
-  },
-  {
-    "objectID": "Test.html#block-section",
-    "href": "Test.html#block-section",
-    "title": "Check",
-    "section": "",
-    "text": "This content is inside a rendered div with class section."
+    "text": "GM Notes:"
   },
   {
     "objectID": "redacted/thr33.html",
@@ -32,7 +25,7 @@
     "href": "wiki/26Rodenbecker.html",
     "title": "Wiki",
     "section": "",
-    "text": "26 Rodenbecker Street\n\n\n\nLocation Safehouse\n\n\n\n26 Rodenbecker street is one of the few two story houses in de old suburb at the edge of Deep Lake, and served as the main residence for the Deep Lake Lathkeys during their investigation. Strange noises had been reported on the 3rd floor.\n\n\n\n\nHistorical Notes\n\n\nThe house was built in the late 1950s.\n\n\n\n\n\n\n\n\nSee also:\n\n\nDeep Lake, New Mexico\n\n\nTV Odyssey Station"
+    "text": "26 Rodenbecker Street\n\n\n\nLocation Safehouse\n\n\n\n26 Rodenbecker street is the only three story houses in de old suburb at the edge of Deep Lake, and served as the main residence for the Deep Lake Latchkeys during their investigations. The house stands out like a sore thumb among the identical two story ranch houses that line the rest of the street.\n\n\n\n\n\nFirst floor\n\nInside the house hangs a particularly humid atmosphere, which feeds the mildew growing in corners of the walls. A leaking pipe can be heard, insistently dripping into a puddle, somewhere beneath the floorboards. Plastic wrapped couches and chairs surround an old tv, the kitchen which looks out over the living room is in disrepair. Here a mysterious closet sits beside the fridge, which seems to have once been used for something, but what, is unclear.\n\n\n\n\n\n\n\nSecond floor\n\nOn the second floor, three rooms line the hallway. The smallest of the three sits close to the staircase, and looks out to the old tree through a circular window. The middle room sits at the front side of the house, and looks out over Rodenbecker street. The largest bedroom houses a king size bed, and looks out onto the back porch through tiny windows.\n\n\n\n\n\n\n\nThe Attic\n\nForgotten miscellania clutter the cramped attic. An old dusty crib, surrounded by pieces of chipped paint and riddled with woodworm holes stands in the corner. Once, a bed was put here in an attempt to ready the house for an extra visitor. Its covers are grayed by years of neglect.\n\n\n\n\n\n\n\nHistorical Notes\n\nThe house was built in the late 1950s.\n\n\n\n\n\n\n\n\n\nSee also:\n\n\nDeep Lake, New Mexico\n\n\nTV Odyssey Station"
   },
   {
     "objectID": "wiki/TVOdyssey.html",
@@ -105,10 +98,10 @@
     "text": "“And the earth was without witness, and the sky kept no record. Yet still it was spoken into being, and what was spoken did not fade.\nFor every name that is given carves a hollow in the air, and the hollow waits to be filled.\nWoe unto those who believe their words perish upon the wind. The wind is a steward. The wind forgets nothing.\nAnd in the fullness of time, all that was cast upward shall descend, not as rain, but as reckoning.”"
   },
   {
-    "objectID": "GM-notes.html",
-    "href": "GM-notes.html",
-    "title": "GM-notes",
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About",
     "section": "",
-    "text": "GM Notes:"
+    "text": "AV Archive is an unofficial fan project created for a private tabletop role-playing campaign.\nThis site serves as an in-universe archive documenting events that occur during our game. As the campaign progresses, new entries, materials, and discoveries are added to reflect the evolving story shaped collaboratively by the players.\nThe project is inspired by and makes reference to Public Access, published by The Gauntlet.\nAVArchive is not affiliated with, endorsed by, or sponsored by The Gauntlet. All original setting elements, archive entries, and supplemental materials presented here are created for non-commercial storytelling purposes within a home game.\nAll intellectual property related to Public Access remains the property of its respective creators and publishers.\nIf you are the creator of Public Access and you have any concerns about the content of this website, please reach out to me at: contact@avarchive.online"
   }
 ]
