@@ -13,7 +13,7 @@ function startGlitch(elementId) {
     // Each character has a 40% chance to be scrambled at any given frame
     let result = "";
     for (let i = 0; i < original.length; i++) {
-      result += Math.random() < 0.4 ? randomChar() : original[i];
+      result += Math.random() < 0.6 ? randomChar() : original[i];
     }
     el.textContent = result;
   }
@@ -30,7 +30,7 @@ function startGlitch(elementId) {
         clearInterval(burst);
         el.textContent = original; // Briefly show original
         // Wait a random pause before next burst
-        setTimeout(glitchBurst, 1 + Math.random() * 1);
+        setTimeout(glitchBurst, Math.random() * 1);
       }
     }, 50); // 50ms between frames = ~20fps jitter
   }
