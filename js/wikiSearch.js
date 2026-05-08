@@ -4,7 +4,8 @@ const wikiPages = [
 { title: "26 Rodenbeck Street", url: "26Rodenbecker.html", tags: ["location", "safehouse"] },  
 { title: "TV Odyssey Station", url: "TVOdyssey.html", tags: ["location", "odyssey"] },  
 { title: "Deep Lake, New Mexico", url: "DeepLake.html", tags: ["location"] },
-{ title: "Odyssey Tapes", url: "Tapes.html", tags: ["odyssey"] }
+{ title: "Odyssey Tapes", url: "Tapes.html", tags: ["odyssey"] },
+{ title: "18 Escondido Street", url: "18Escondido.html", tags: ["location", "mystery"] }
 ];
 
 function filterWiki() {
