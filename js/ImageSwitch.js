@@ -3,7 +3,7 @@
   const BASE_IMAGE = "../images/Jessica.png";
   const BG_SIZE_W_PERCENT = 15; // Must match your CSS background-size width %
   const BG_SIZE_H_PERCENT = 25; // Must match your CSS background-size height %
-  const FLASH_DURATION_MS = 80; // How long the glitch image shows (ms)
+  const FLASH_DURATION_MS = 100; // How long the glitch image shows (ms)
   const MIN_INTERVAL_MS = 100; // Minimum time between glitches
   const MAX_INTERVAL_MS = 30000; // Maximum time between glitches
 
@@ -63,8 +63,9 @@
       background-image: url("${GLITCH_IMAGE}");
       background-size: cover;
       background-position: center;
-      z-index: 0;
+      z-index: 1;
       pointer-events: none;
+      opacity: 0.5;
     `;
 
     document.body.appendChild(glitch);

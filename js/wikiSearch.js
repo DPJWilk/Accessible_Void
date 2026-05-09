@@ -5,6 +5,7 @@ const wikiPages = [
 { title: "TV Odyssey Station", url: "TVOdyssey.html", tags: ["location", "odyssey"] },  
 { title: "Deep Lake, New Mexico", url: "DeepLake.html", tags: ["location"] },
 { title: "Odyssey Tapes", url: "Tapes.html", tags: ["odyssey"] },
+{ title: "Astral 09 Pyramid Passage Pure-White Contact", url: "Astral09.html", tags: ["odyssey", "tape"] },
 { title: "18 Escondido Street", url: "18Escondido.html", tags: ["location", "mystery"] }
 ];
 

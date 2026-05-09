@@ -62,7 +62,6 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles/layer_two.css">
 <link rel="stylesheet" href="styles/layer_three.css">
 <link rel="stylesheet" href="styles/layer_four.css">
-<link rel="stylesheet" href="../styles/terminal.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -116,51 +115,32 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="terminal">
-
   <div class="output">
     <p>AV ARCHIVE ACCESS TERMINAL</p>
     <p>AUTHORIZED PERSONNEL ONLY</p>
     <p>--------------------------------</p>
     <p>ENTER ARCHIVE CODE:</p>
   </div>
-
   <div class="input-line">
     <span class="prompt">&gt;</span>
     <input id="accessCode" type="text" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false" autofocus="">
   </div>
-
   <p id="response"></p>
-
 </div>
-
+    
 <script>
-  // Keys JSON (inline version for testing)
-  const keys = {
-    "DYS0V": "redacted/dys0v.html",
-    "THR33": "redacted/thr33.html",
-    "P1N3R0CK": "redacted/p1n3r0ck.html"
-  };
-
+  console.log("script running");
   const input = document.getElementById("accessCode");
-  const response = document.getElementById("response");
-
-  input.addEventListener("keyup", function(e) {
-    if (e.key === "Enter") {
-      const code = input.value.toUpperCase().trim();
-
-      if (keys[code]) {
-        response.innerText = "ACCESS GRANTED";
-        setTimeout(() => {
-          window.location.href = keys[code];
-        }, 700);
-      } else {
-        response.innerText = "ACCESS DENIED";
-      }
-
-      input.value = "";
-    }
-  });
-</script>
+  console.log("input found:", input);
+  if (input) {
+    input.addEventListener("keydown", function(e) {
+      console.log("key pressed:", e.key);
+    });
+  }
+</script>  
+  
+ 
+<script src="js/passwordchecker.js"></script>
 
 
 

@@ -1,4 +1,6 @@
 function startGlitch(elementId) {
+
+
   const el = document.getElementById(elementId);
   if (!el) return;
 
@@ -40,10 +42,5 @@ function startGlitch(elementId) {
 
 // Only trigger when the <details> is opened
 document.addEventListener("DOMContentLoaded", () => {
-  const details = document.querySelector("details:has(#glitch-text)");
-  if (details) {
-    details.addEventListener("toggle", () => {
-      if (details.open) startGlitch("glitch-text");
-    });
-  }
+  startGlitch("glitch-text");
 });

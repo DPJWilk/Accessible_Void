@@ -64,6 +64,7 @@ body.layer_two::after {
   display: flex;
   gap: 0px;
   align-items: flex-start;
+  z-index: 2;
 }
 
 .image-wrap img {
